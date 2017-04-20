@@ -1,0 +1,7 @@
+INDEX VERSION 1.130+C:\Users\ETY\Desktop\wsp-pizzeria\.metadata\.plugins\org.eclipse.jdt.core
+3768955776.index
+534778077.index
+2500701225.index
+2733732467.index
+1625609952.index
+524516574.index
